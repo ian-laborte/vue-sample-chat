@@ -1,4 +1,15 @@
-# chattify
+# Vue Sample Chat Application 
+
+# Tech Stack 
+```
+Vue.js 2 
+Firebase 
+
+Additional Plugins:
+
+Vuex
+Vuetify
+```
 
 ## Project setup
 ```
